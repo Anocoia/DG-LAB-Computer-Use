@@ -1,0 +1,6 @@
+PyQt6>=6.5
+pydglab-ws>=0.4
+qrcode[pil]>=7.4
+psutil>=5.9
+pynput>=1.7
+qasync>=0.27
